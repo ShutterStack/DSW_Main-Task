@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Loan Default Prediction Project
 
 ## Overview
