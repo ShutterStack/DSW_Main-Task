@@ -109,13 +109,6 @@ Develop a machine learning classification model to:
 4. Train models: `python model_.py`
 5. Select best model: `jupyter notebook model_selection.ipynb`
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-=======
-# DSW_Main-Task
 # Loan Default Prediction using Machine Learning
 Overview
 This repository contains a comprehensive analysis and modeling pipeline for predicting loan defaults for a Non-Banking Financial Company (NBFC). The goal is to enhance risk assessment and improve the loan approval process by identifying potential defaulters and non-defaulters based on historical loan data.
