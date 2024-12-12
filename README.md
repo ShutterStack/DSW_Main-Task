@@ -8,7 +8,7 @@ This project focuses on developing a robust classification model for predicting 
 ## Project Background
 
 ### About the NBFC
-Our partner is a trusted Non-Banking Financial Company specializing in providing:
+NBFC partner is a trusted Non-Banking Financial Company specializing in providing:
 - Quick and accessible small loans
 - Flexible loan options
 - Competitive interest rates
