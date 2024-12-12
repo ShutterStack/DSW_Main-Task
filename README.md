@@ -84,13 +84,6 @@ Develop a machine learning classification model to:
   - Perform hyperparameter tuning if needed
   - Provide a summary explaining the final model selection
 
-## Additional Guidelines
-- Use Python 3.7+
-- Follow appropriate coding standards
-- Include inline comments where necessary
-- Pre-run notebooks with output cells
-- Submit as `<Your Full Name>.zip`
-
 ## Important Notes
 - Datasets are stochastically generated and not real company data
 - Submissions must be original work
